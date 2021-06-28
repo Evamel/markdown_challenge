@@ -10,7 +10,7 @@
 Birthday | 22/08
 Favorite color | red (I think...)
 Favorite food | Don't have one. Every food is good (but carrots... i hate cooked carrots)
-Pinneapple on pizza | - [x] yes (don't judge me) - [ ] no
+Pinneapple on pizza | <ul><li>[x] yes (dont't judge me)</li><li>[ ] no</li></ul>
 
 ## Hobbies
 
