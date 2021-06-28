@@ -1,7 +1,7 @@
 # MELINAND Eva
 *"Work hard in silence, let your success be the noise.”* – Frank Ocean
 
-![Eva Mélinand](/FB_IMG_1624441410239.jpg)
+![Eva Mélinand](FB_IMG_1624441410239.jpg)
 
 ## Just a girl from the literary world who wants to learn and become a web developer.
 
