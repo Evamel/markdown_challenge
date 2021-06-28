@@ -1,7 +1,7 @@
 # MELINAND Eva
 *"Work hard in silence, let your success be the noise.”* – Frank Ocean
 
-![Eva Mélinand](FB_IMG_1624441410239.jpg)
+![Eva Mélinand](/FB_IMG_1624441410239.jpg)
 
 ## Just a girl from the literary world who wants to learn and become a web developer.
 
@@ -10,7 +10,7 @@
 Birthday | 22/08
 Favorite color | red (I think...)
 Favorite food | Don't have one. Every food is good (but carrots... i hate cooked carrots)
-Pinneapple on pizza | <ul><li>[x] yes (dont't judge me)</li><li>[ ] no</li></ul>
+Pinneapple on pizza | <ul><li>[x] yes (don't judge me)</li><li>[ ] no</li></ul>
 
 ## Hobbies
 
